@@ -1,3 +1,5 @@
+
+
 describe Movie do
   let(:movie) { Movie.new }
   let(:attributes) do 
